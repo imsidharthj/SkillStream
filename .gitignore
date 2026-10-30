@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SkillStream
+data/sessions/*
+!data/sessions/.gitkeep
+frontend/node_modules/
+frontend/dist/
